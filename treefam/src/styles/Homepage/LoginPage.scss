@@ -1,0 +1,40 @@
+:root {
+    --primary-green : #55C091;
+}
+
+.home {
+    display: flex;
+    width: 100%;
+
+    .info-sect {
+        width: 60%;
+        height: 100vh;
+        background-color: var(--primary-green);
+        background-image: url('./assets/image.png');
+        background-size: cover;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 100px 50px;
+
+        h1 {
+            margin: 0;
+            font-weight: bold;
+            color: white;
+        }
+
+        h3 {
+            color: #191919;
+        }
+    }
+
+    .auth-container {
+        padding: 30px;
+    }
+}
+
+@media (max-width: 768px) {
+    .info-sect {
+        width: 100vw;;
+    }
+}

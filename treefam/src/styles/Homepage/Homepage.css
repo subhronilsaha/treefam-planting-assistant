@@ -1,0 +1,52 @@
+:root {
+  --primary-green: #55C091;
+}
+
+.map {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.map .sidepane {
+  margin: 0;
+  height: 100vh;
+  width: 15%;
+  background-color: var(--primary-green);
+  padding: 15px;
+}
+
+.map .sidepane h4 {
+  font-weight: bold;
+  color: white;
+  margin-bottom: 40px;
+}
+
+.map .sidepane h6 {
+  font-weight: bold;
+}
+
+.map .google-map {
+  width: 85%;
+  height: 100vh;
+}
+
+.map .pin {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 180px;
+  color: black;
+}
+
+.map .pin-icon {
+  font-size: 4rem;
+}
+
+.map .pin-text {
+  font-size: 1.3em;
+}
+/*# sourceMappingURL=Homepage.css.map */

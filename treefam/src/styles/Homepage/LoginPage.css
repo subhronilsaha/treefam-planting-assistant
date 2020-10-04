@@ -1,0 +1,50 @@
+:root {
+  --primary-green: #55C091;
+}
+
+.home {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+}
+
+.home .info-sect {
+  width: 60%;
+  height: 100vh;
+  background-color: var(--primary-green);
+  background-image: url("./assets/image.png");
+  background-size: cover;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  padding: 100px 50px;
+}
+
+.home .info-sect h1 {
+  margin: 0;
+  font-weight: bold;
+  color: white;
+}
+
+.home .info-sect h3 {
+  color: #191919;
+}
+
+.home .auth-container {
+  padding: 30px;
+}
+
+@media (max-width: 768px) {
+  .info-sect {
+    width: 100vw;
+  }
+}
+/*# sourceMappingURL=LoginPage.css.map */

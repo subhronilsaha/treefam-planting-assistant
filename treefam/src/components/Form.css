@@ -1,0 +1,20 @@
+h3 {
+    color: var(--primary-green);
+    margin-bottom: 40px;
+}
+
+button {
+    cursor: pointer;
+    background-color: var(--primary-green);
+    margin-top: 30px;
+    width: 150px;
+    height: 70px;
+    border: none;
+    border-radius: 20px;
+    transition: 0.3s all;
+}
+
+button:hover {
+    background-color: darkcyan;
+    color: white;
+}
