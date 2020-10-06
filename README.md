@@ -2,11 +2,9 @@
 
 Submission for IvyHacks 2020. (Social Good)
 
-<br/>
+<img src="Screenshot.png" width=100%/>
 
 Youtube Demo: https://www.youtube.com/watch?v=3aQ-GjwDVVk
-
-
 
 TreeFam is a community for nature lovers. Keep track of how many trees you plant, get points and also see your friends stats!
 
