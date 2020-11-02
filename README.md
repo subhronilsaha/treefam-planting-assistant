@@ -2,9 +2,11 @@
 
 Submission for IvyHacks 2020. (Social Good)
 
-<img src="screens/Splashscreen_iphonexspacegrey_portrait.png" width=30%/>
-<img src="screens/Login_iphonexspacegrey_portrait.png" width=30%/>
-<img src="screens/Home_iphonexspacegrey_portrait.png" width=30%/>
+<div>
+  <img src="screens/Splashscreen_iphonexspacegrey_portrait.png" width=40%/>
+  <img src="screens/Login_iphonexspacegrey_portrait.png" width=40%/>
+  <img src="screens/Home_iphonexspacegrey_portrait.png" width=40%/>
+</div>
 
 Youtube Demo: https://www.youtube.com/watch?v=3aQ-GjwDVVk
 
