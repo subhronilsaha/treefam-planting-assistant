@@ -2,13 +2,9 @@
 
 Submission for IvyHacks 2020. (Social Good)
 
-<div>
-  <img src="screens/Splashscreen_iphonexspacegrey_portrait.png" width=40%/>
-  <img src="screens/Login_iphonexspacegrey_portrait.png" width=40%/>
-  <img src="screens/Home_iphonexspacegrey_portrait.png" width=40%/>
-</div>
+<img src="screens/mockup.png" width=100%/>
 
-Youtube Demo: https://www.youtube.com/watch?v=3aQ-GjwDVVk
+<!--Youtube Demo: https://www.youtube.com/watch?v=3aQ-GjwDVVk-->
 
 TreeFam is a community for nature lovers. Keep track of how many trees you plant, get points and also see your friends stats!
 
