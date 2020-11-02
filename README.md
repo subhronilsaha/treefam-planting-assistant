@@ -24,11 +24,11 @@ It keeps track of how many plants you and your friends plant and gives you point
 
 ## How I built it
 
-I built it using React.js for the web, using Firebase for authentication, and Google Maps API for keeping track of where you are planting your trees.
+I am building it using SwiftUI 2.0 for iOS, using Firebase for authentication, and Apple Maps API for keeping track of where you are planting your trees.
 
 ## Challenges I ran into
 
-Integrating Google Maps API was new to me. Initially, I thought of building a mobile app with Flutter, but since I was new to the framework and ran into some problems I decided to go with building a web app.
+--
 
 ## What's next for TreeFam
 
