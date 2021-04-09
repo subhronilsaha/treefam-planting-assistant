@@ -1,6 +1,6 @@
 # Ivyhacks 2020 Submission: TreeFam
 
-Submission for IvyHacks 2020. (Social Good)
+Submission for IvyHacks 2020. (Social Good) [Under Heavy Modifications, most features may be broken]
 
 <img src="screens/mockup.png" width=100%/>
 
